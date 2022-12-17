@@ -10,6 +10,6 @@ I'm oth-body. I'm new to sharing my work publicly and am excited to learn and gr
 
 ## Contact
 
-- Email: oth-body@protonmail.com
+- Email: othe-body@protonmail.com
 
 Thanks for visiting my profile! I'm always looking to learn and improve, so feel free to reach out if you have any suggestions or want to collaborate on a project.
