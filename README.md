@@ -9,5 +9,5 @@ I'm oth-body. I'm new to sharing my work publicly and am excited to learn and gr
 
 ## You can see what I've been working on recently below:
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/oth-body/langs?time_range=one_year&theme=classic)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/oth-body/langs?time_range=one_month&compact=True&theme=dark)](https://githubtrends.io)
  
