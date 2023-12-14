@@ -7,7 +7,3 @@ I'm oth-body. I'm new to sharing my work publicly and am excited to learn and gr
 - HTML/CSS
 - JavaScript
 
-## You can see what I've been working on recently below:
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/oth-body/repos?time_range=six_months&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
- 
