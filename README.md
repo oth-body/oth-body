@@ -5,5 +5,9 @@ I'm oth-body. I make things sometimes.
 - 3D printer
 - Go
 - Python
+- Rust occasionally.
+
+
+  
 
 
